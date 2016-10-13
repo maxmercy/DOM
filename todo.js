@@ -19,8 +19,8 @@ window.onload = function() {
     var inputSave = document.getElementById('todo-input').value;
 
     var ul = document.getElementsByClassName("todo-list-items");
-   // var li = document.createElement("li");
-  //  li.appendChild(document.createTextNode("inputSave"));
+    var li = document.createElement("li");
+    
 
   }
 
